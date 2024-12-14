@@ -1,0 +1,36 @@
+.header
+{
+    position: fixed;
+    top:0;
+    left:0;
+    width: 100%;
+    padding: 20px 10px;
+    background: #695958;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 100;
+}
+
+nav ul li
+{
+    display: inline-block;
+    list-style: none;
+    margin: 10px 20px 10px 20px;
+    padding:5px 10px 5px 10px;
+    color: #FFEEDB;
+}
+
+nav ul li:hover
+{
+    background-color: #61C9A8;
+    padding: 5px 10px 5px 10px;
+    border-radius: 20px;
+    color:#695958;
+}
+
+a
+{
+    color: #FFEEDB;
+    font-size: 30px;
+}

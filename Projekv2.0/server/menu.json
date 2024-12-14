@@ -1,0 +1,68 @@
+[
+    {
+      "name": "Ramen",
+      "type":"food",
+      "price": 15000,
+      "img": "https://i.pinimg.com/736x/dd/38/52/dd385240efef8ff12e1ad2d595bec4e7.jpg"
+    },
+    {
+      "name": "Dango",
+      "type":"food",
+      "price": 5000,
+      "img": "https://i.pinimg.com/736x/4d/62/24/4d62245410c830494434032e56808cad.jpg"
+    },
+    {
+      "name": "Hotdog",
+      "type":"food",
+      "price": 13000,
+      "img": "https://i.pinimg.com/736x/b6/de/35/b6de359633688746c25896c495c06b7d.jpg"
+    },
+    {
+      "name": "Pizza",
+      "type":"food",
+      "price": 50000,
+      "img": "https://i.pinimg.com/736x/dd/fd/fc/ddfdfc959e205f7f3ae110e92292b970.jpg"
+    },
+    {
+      "name": "Sandwich",
+      "type":"food",
+      "price": 50000,
+      "img": "https://i.pinimg.com/736x/57/24/21/57242143c35202071126afdbe0be90ef.jpg"
+    },
+    {
+        "name": "Sandwich",
+        "type":"dessert",
+        "price": 23000,
+        "img": "https://i.pinimg.com/736x/6a/4f/3f/6a4f3fe5b43e824ef74153f2bcdd6da2.jpg"
+    },
+    {
+        "name": "Fruit Pie",
+        "type":"dessert",
+        "price": 15000,
+        "img": "https://i.pinimg.com/736x/0d/37/03/0d370390abaf3efa01153f2379292cc4.jpg"
+    },
+    {
+        "name": "Spaghetti",
+        "type":"food",
+        "price": 35000,
+        "img": "https://i.pinimg.com/736x/d6/18/f3/d618f3036cedbd1b3990ae0b4661e8ea.jpg"
+    },
+    {
+        "name": "Coke Float",
+        "type":"beverages",
+        "price": 5000,
+        "img": "https://i.pinimg.com/736x/1c/a3/3f/1ca33f764c28fd0be471e49cf820b1fc.jpg"
+    },
+    {
+        "name": "Milkshake",
+        "type":"beverages",
+        "price": 10000,
+        "img": "https://i.pinimg.com/736x/95/16/2d/95162d8402ec13768965cc1e169bb586.jpg"
+    },
+    {
+        "name": "Soda",
+        "type":"beverages",
+        "price": 9000,
+        "img": "https://i.pinimg.com/736x/26/f7/dd/26f7dd9595de697bb66c919ae936cb3f.jpg"
+    }
+]
